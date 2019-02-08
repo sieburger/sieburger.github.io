@@ -3,8 +3,6 @@ layout: page
 title: portfolio
 permalink: /portfolio/
 ---
-## [portfolio](./portfoliop.html)
-
 
 [Tower Wind Services](https://www.towerwindservices.com)
 
@@ -15,6 +13,8 @@ With experience in the area of telecommunications in the installation of irradia
 Our mission is to provide services in the field of wind energy in the prospection of data for parks projects, as well as the development of new information technologies.
 
 [Regrubeis](https://www.regrubeis.com)
+
+[pt](./portfoliop.html)
 
 ***
 [back](./)
