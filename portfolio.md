@@ -1,7 +1,6 @@
 ---
 layout: page
 title: portfolio
-permalink: /portfolio/
 ---
 
 [Tower Wind Services](https://www.towerwindservices.com)
