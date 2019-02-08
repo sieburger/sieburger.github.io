@@ -12,6 +12,7 @@ github_username:  sieburger
 header_pages:
   - about.md
   - portfolio.md
+  - jekyll.md
 
 markdown: kramdown
 theme: minima
