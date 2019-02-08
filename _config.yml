@@ -9,6 +9,7 @@ twitter_username: sieburgerr
 github_username:  sieburger
 
 # Build settings
+
 header_pages:
   - about.md
   - portfolio.md
