@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sobre
-permalink: /aboutp/
 ---
 
 Meu nome é Márcio, sou brasileiro do extremo sul do país, perto do Uruguai e moro em uma cidade chamada Canoas, no estado do Rio Grande do Sul.

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 My name is Márcio, I am Brazilian from the southernmost part of the country, near Uruguay and live in a city called Canoas in the state of Rio Grande do Sul.
