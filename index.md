@@ -6,4 +6,3 @@ In a brief presentation, we have some sections of distinct interests that are al
 [pt](./indexp.html)
 
 ***
-[back](./)
