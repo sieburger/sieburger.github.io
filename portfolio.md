@@ -1,6 +1,7 @@
 ---
 layout: page
 title: portfolio
+comments: true
 ---
 
 [Tower Wind Services](https://www.towerwindservices.com)
