@@ -14,3 +14,6 @@ E como nunca paramos de estudar nesta vida, ainda temos muitas coisas para desco
 
 ***
 [back](./)
+
+***
+[contacto](./contacto.html)
