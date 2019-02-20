@@ -13,7 +13,7 @@ github_username:  sieburger
 header_pages:
   - about.md
   - portfolio.md
-
+  - contacto.html
 markdown: kramdown
 theme: minima
 plugins:
