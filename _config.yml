@@ -15,7 +15,7 @@ header_pages:
   - portfolio.md
   - contacto.html
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
