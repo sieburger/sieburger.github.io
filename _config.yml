@@ -1,29 +1,30 @@
-title: Sieburger
+title: Marcio Sieburger
 email: sieburger@bol.com.br
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal page! 
   Here you will discover more about me and my projects, interests and knowledge.
+show_downloads: false
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sieburgerr
-github_username:  sieburger
+#twitter_username: sieburgerr
+#github_username:  sieburger
 
 # Build settings
 
-header_pages:
-  - about.md
-  - portfolio.md
-  - contacto.html
+#header_pages:
+#  - about.md
+#  - portfolio.md
+#  - contacto.html
 markdown: kramdown
 theme: jekyll-theme-hacker
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 # Disqus Comments
-disqus:
+#disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: NoEgxbVT2U
+    #shortname: NoEgxbVT2U
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

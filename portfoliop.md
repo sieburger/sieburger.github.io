@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: portfolio
 ---
 
@@ -11,12 +11,25 @@ Com experiência na área de telecomunicações na instalação de sistemas irra
 
 Nossa missão é prestar serviços na área de energia eólica na prospecção de dados para projetos de parques, assim como o desenvolvimento de novas tecnologias da informação.
 
+
 [Regrubeis](https://www.regrubeis.com)
+<br>
+
+[oicran notes](https://oicran.github.io/)
+<br>
+
+[X-burger profile jekyll-Uno-theme](https://x-burger.github.io/)
+<br>
+
+[Projeto Fábrica de Sites](https://fabricadesites.github.io/)
+<br>
+
+***
 
 [eng](./portfolio.html)
 
 ***
-[back](./)
+[home](./)
 
 ***
-[contacto](./contacto.html)
+mail me: marcio at sieburger dot link

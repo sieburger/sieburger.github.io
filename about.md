@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: About
 ---
 
@@ -13,7 +13,7 @@ And as we never stop studying in this life we still have many things to discover
 [pt](./aboutp.html)
 
 ***
-[back](./)
+[home](./)
 
 ***
-[contacto](./contacto.html)
+mail me: marcio at sieburger dot link

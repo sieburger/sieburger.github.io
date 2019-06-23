@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: portfolio
 comments: true
 ---
@@ -13,11 +13,23 @@ With experience in the area of telecommunications in the installation of irradia
 Our mission is to provide services in the field of wind energy in the prospection of data for parks projects, as well as the development of new information technologies.
 
 [Regrubeis](https://www.regrubeis.com)
+<br>
+
+[oicran notes](https://oicran.github.io/)
+<br>
+
+[X-burger profile jekyll-Uno-theme](https://x-burger.github.io/)
+<br>
+
+[Projeto Fábrica de Sites](https://fabricadesites.github.io/)
+<br>
+
+***
 
 [pt](./portfoliop.html)
 
 ***
-[back](./)
+[home](./)
 
 ***
-[contacto](./contacto.html)
+mail me: marcio at sieburger dot link

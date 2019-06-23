@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Sobre
 ---
 
@@ -13,7 +13,7 @@ E como nunca paramos de estudar nesta vida, ainda temos muitas coisas para desco
 [eng](./about.html)
 
 ***
-[back](./)
+[home](./)
 
 ***
-[contacto](./contacto.html)
+mail me: marcio at sieburger dot link
