@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Github, hospedagem de código-fonte e controle de versão.
+comments: true
 ---
 
 

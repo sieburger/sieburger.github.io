@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Jekyll, um gerador de site estático
+comments: true
 ---
 
 

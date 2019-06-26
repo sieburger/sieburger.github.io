@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Secure Shell (SSH)
+comments: true
 ---
 
 

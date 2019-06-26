@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Arduino
+comments: true
 ---
 
 <p align="center">

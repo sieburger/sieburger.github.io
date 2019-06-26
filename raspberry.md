@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Raspberry Pi
+comments: true
 ---
 
 
