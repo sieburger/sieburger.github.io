@@ -1,38 +1,36 @@
-title: Marcio Sieburger
-email: sieburger@bol.com.br
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal page! 
-  Here you will discover more about me and my projects, interests and knowledge.
-show_downloads: false
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: sieburgerr
-#github_username:  sieburger
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://www.sieburger.com
+title: Sieburger.com
+email: contato@sieburger.com
+author: M. Sieburger
+description: > # "Write an awesome description for your new site here. 
+  You can edit this line in _config.yml. It will appear in your document 
+  head meta (for Google search results) and in your feed.xml site 
+  description.
+copyright: 'Copyright &copy; 2019 sieburger.com. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
 
 # Build settings
-
-#header_pages:
-#  - about.md
-#  - portfolio.md
-#  - contacto.html
 markdown: kramdown
-theme: jekyll-theme-hacker
-#plugins:
-#  - jekyll-feed
+permalink: pretty
 
-# Disqus Comments
-#disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    #shortname: NoEgxbVT2U
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+#social:
+#  - title: twitter
+#    url: https://twitter.com/SBootstrap
+#  - title: github
+#   url: https://github.com/sieburger
+#  - title: linkedin
+#    url: 
+#  - title: facebook
+#    url: https://facebook.com/sieburger

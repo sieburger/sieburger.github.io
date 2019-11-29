@@ -1,3 +1,11 @@
 _site
+font-awesome-4.1.0
+komtrapunkt
+.jekyll-cache
+_includes
+_layouts
+fonts
 .sass-cache
 .jekyll-metadata
+*.sublime-project
+*.sublime-workspace
