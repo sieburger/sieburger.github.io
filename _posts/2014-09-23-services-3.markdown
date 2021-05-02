@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: eyes.jpg
 category: Services
 title: Procedimentos e taxas<br>por que pagar mais caro?
 description: |
