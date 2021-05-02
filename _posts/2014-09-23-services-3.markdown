@@ -2,7 +2,16 @@
 layout: default
 img: phones.png
 category: Services
-title: Lorem ipsum dolor sit amet<br>by Warriors
+title: Procedimentos e taxas<br>por que pagar mais caro?
 description: |
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum, ex id vulputate molestie, purus sapien malesuada leo, non ullamcorper magna mauris ut lorem. In vulputate lorem tortor, at tincidunt tellus venenatis vitae. In a ex nec lacus porttitor aliquet. Praesent non tellus consectetur, mattis diam at, volutpat nisi. Integer ac massa nec felis ornare dignissim ut ac sem. Duis iaculis accumsan auctor. Donec tempor dui est, a dignissim nisl.
+ * Nas compras e vendas de cryptoativos as transferências bancárias devem ser realizadas primeiro;<br>
+
+* Cobramos taxas de corretagem de 1% a 5% dependendo do valor negociado. Ex.: Transações maiores que R$2000,00 pagamos as taxas da rede (fee), taxa de 5%;>br>
+
+* Custódia de cryptoativos sujeita a taxa de 0,5%am;<br>
+
+* Indicando um amigo que negocie ao menos R$1000,00 em 3 meses você fica isento das taxas de corretagem;<br>
+
+
+
