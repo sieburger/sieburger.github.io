@@ -23,8 +23,8 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://www.twitter.com/sabugosa4
+#  - title: twitter
+#    url: https://www.twitter.com/sabugosa4
   - title: github
    url: https://www.github.com/sieburger
 #  - title: linkedin
