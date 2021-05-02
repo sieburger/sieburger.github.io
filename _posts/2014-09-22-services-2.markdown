@@ -5,4 +5,4 @@ category: Services
 title: Exchange OTT<br>Corretagem fora do tempo, o que é?
 description: |
 ---
-  Diferente dos serviços P2P e Exchanges tradicionais a **Exchange OTT** (corretagem fora do tempo) oferece uma alternativa de negociação entre diferentes pessoas na condição de custodiante das ofertas de compra e venda. Se você quer vender ou comprar mais do que possuímos em nossa carteira no momento publicamos suas ofertas anonimamente para outros participantes interessados ou buscamos compradores/vendedores via OTC. 
+  Diferente dos serviços P2P e Exchanges tradicionais a **Exchange OTT** (corretagem fora do tempo) oferece uma alternativa de negociação entre diferentes pessoas na condição de custodiante das ofertas de compra e venda.<br> Se você quer vender ou comprar mais do que possuímos em nossa carteira no momento publicamos suas ofertas anonimamente para outros participantes interessados ou buscamos compradores/vendedores via OTC. 
