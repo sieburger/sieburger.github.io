@@ -7,7 +7,7 @@ description: |
 ---
  * Nas compras e vendas de cryptoativos as transferências bancárias devem ser realizadas primeiro;<br>
 
-* Cobramos taxas de corretagem de 1% a 5% dependendo do valor negociado. Ex.: Transações maiores que R$2000,00 pagamos as taxas da rede (fee), taxa de 5%;<br>
+* Cobramos taxas de corretagem de 1% a 5% dependendo do valor negociado. Ex.: Transações maiores que R$2000,00 pagamos as taxas da rede (fee), taxa de corretagem 2%;<br>
 
 * Custódia de cryptoativos sujeita a taxa de 0,5%am;<br>
 
