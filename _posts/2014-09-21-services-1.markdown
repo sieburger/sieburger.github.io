@@ -10,5 +10,11 @@ description: |
   ---
   
   Negociações P2P são realizadas diretamente entre duas pessoas sem a intermediação de uma corretora;<br>
+  
+  ---
+  
   Sem a necessidade de realizar procedimentos de identificação com envio de documentos e fotos;<br>
+  
+  ---
+  
   Se quiser indicar um amigo que não conheço favor entrar em contato antes! **_Não fazemos negócios com desconhecidos!_**
